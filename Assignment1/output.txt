@@ -1,0 +1,68 @@
+Script started on 2021-02-04 17:31:03-0500
+]0;osboxes@ubuntu: ~/comp3080/Assignment1[01;32mosboxes@ubuntu[00m:[01;34m~/comp3080/Assignment1[00m$ make
+gcc -c -g -Wall -Werror  a1.c
+gcc -o a1 a1.o
+]0;osboxes@ubuntu: ~/comp3080/Assignment1[01;32mosboxes@ubuntu[00m:[01;34m~/comp3080/Assignment1[00m$ ./a1 &
+[1] 2026
+]0;osboxes@ubuntu: ~/comp3080/Assignment1[01;32mosboxes@ubuntu[00m:[01;34m~/comp3080/Assignment1[00m$ 
+This is the Parent process report:
+
+PARENT:  Process ID is:		2026
+PARENT:  Process parent ID is:	2009
+PARENT:  Real UID is:		1000
+PARENT:  Real GID is:		1000
+PARENT:  Effective UID is:	1000
+PARENT:  Effective GID is:	1000
+PARENT:  Process priority:	0
+
+PARENT: will now create child, read pipe, signal child,
+and wait for obituary from child
+
+PARENT: created child with PID 2027
+
+This is the Child process report:
+
+CHILD:  Process ID is:		2027
+CHILD:  Process parent ID is:	2026
+CHILD:  Real UID is:		1000
+CHILD:  Real GID is:		1000
+CHILD:  Effective UID is:	1000
+CHILD:  Effective GID is:	1000
+CHILD:  Process priority:	0
+
+CHILD: about to write pipe and go to endless loop
+
+PARENT: read pipe and sent SIGTERM, now wait to exit
+
+CHILD: Awake in handler - You got me with Signal Number 15
+after spinning for more than 9459  loop iterations
+
+CHILD: now beginning to exec target program, goodbye
+
+This is the Prof process report:
+
+This is the Prof process report:
+
+PROF PROG:  Process ID is:		2027
+PROF PROG:  Process parent ID is:	2026
+PROF PROG:  Real UID is:		1000
+PROF PROG:  Real GID is:		1000
+PROF PROG:  Effective UID is:		1000
+PROF PROG:  Effective GID is:		1000
+PROF PROG:  Process priority is:	5
+
+PROF PROG: going into and endless loop, use
+ kill 2027   to kill me now
+
+kill 2027                   <<=== USER ENTERS KILL COMMAND
+
+
+PROF PROG: Awake in handler - You Got Me With Signal
+ Number 15 after spinning for more
+ than 2 Billion loop iterations, goodbye
+
+PARENT: child 2027 exited with exit code 1, goodbye
+]0;osboxes@ubuntu: ~/comp3080/Assignment1[01;32mosboxes@ubuntu[00m:[01;34m~/comp3080/Assignment1[00m$ exit
+exit
+
+Script done on 2021-02-04 17:31:22-0500

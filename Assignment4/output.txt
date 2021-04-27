@@ -1,0 +1,454 @@
+****************************** cons10 ******************************
+consumer thread #10   time: 21:47:30.154   dozen #1
+
+plain		jelly		coconut		honey-dip
+47		113		15		15
+116		114		16		16
+				39		112
+				101				
+				102				
+								
+consumer thread #10   time: 21:47:30.162   dozen #2
+
+plain		jelly		coconut		honey-dip
+163		263		350		259
+240		264						
+241		265						
+242								
+243								
+244								
+245								
+								
+consumer thread #10   time: 21:47:30.170   dozen #3
+
+plain		jelly		coconut		honey-dip
+474		446		572		554
+563		496						
+564		526						
+565		546						
+		584						
+		615						
+								
+consumer thread #10   time: 21:47:30.172   dozen #4
+
+plain		jelly		coconut		honey-dip
+666		664		667		644
+667		730		740		692
+		731						
+		732						
+		733						
+		734						
+								
+consumer thread #10   time: 21:47:30.174   dozen #5
+
+plain		jelly		coconut		honey-dip
+817		825		846		1004
+863		927		879				
+869		1050		924				
+870				1079				
+								
+consumer thread #10   time: 21:47:30.177   dozen #6
+
+plain		jelly		coconut		honey-dip
+1042		1117		1128		1056
+1043				1129		1057
+1044				1130		1058
+				1131				
+				1132				
+								
+consumer thread #10   time: 21:47:30.179   dozen #7
+
+plain		jelly		coconut		honey-dip
+1537		1571		1613		1195
+		1572				1500
+		1573				1501
+		1574				1502
+		1575						
+		1576						
+								
+consumer thread #10   time: 21:47:30.189   dozen #8
+
+plain		jelly		coconut		honey-dip
+1550		1582		1629		1512
+1556		1588		1633		1519
+1557		1589		1634		1520
+								
+consumer thread #10   time: 21:47:30.190   dozen #9
+
+plain		jelly		coconut		honey-dip
+1579		1606		1656		1535
+1580				1657		1536
+1581						1537
+1582						1538
+1583								
+								
+consumer thread #10   time: 21:47:30.190   dozen #10
+
+plain		jelly		coconut		honey-dip
+1803		1836		1683		1575
+1804		1837		1886		1772
+1805				1887		1773
+				1888				
+								
+****************************** cons20 ******************************
+consumer thread #20   time: 21:47:30.156   dozen #1
+
+plain		jelly		coconut		honey-dip
+17		16		19		20
+18				20		22
+				21		24
+				22				
+				23				
+				24				
+								
+consumer thread #20   time: 21:47:30.157   dozen #2
+
+plain		jelly		coconut		honey-dip
+105		58		55		49
+106		107		113				
+107		108		114				
+108		109						
+								
+consumer thread #20   time: 21:47:30.162   dozen #3
+
+plain		jelly		coconut		honey-dip
+133		164		154		154
+166		165		155				
+167				156				
+168				157				
+				158				
+								
+consumer thread #20   time: 21:47:30.163   dozen #4
+
+plain		jelly		coconut		honey-dip
+419		455		308		308
+431		456		436		463
+432		457		460				
+		458						
+								
+consumer thread #20   time: 21:47:30.170   dozen #5
+
+plain		jelly		coconut		honey-dip
+		523		519		581
+		590		561		613
+		645		589		632
+		646		630				
+				653				
+								
+consumer thread #20   time: 21:47:30.173   dozen #6
+
+plain		jelly		coconut		honey-dip
+677		740		752		701
+712		741		753		702
+		742		754		703
+				769				
+								
+consumer thread #20   time: 21:47:30.174   dozen #7
+
+plain		jelly		coconut		honey-dip
+818		826		848		778
+1514		879		881		779
+				930		1187
+				1292				
+				1293				
+								
+consumer thread #20   time: 21:47:30.189   dozen #8
+
+plain		jelly		coconut		honey-dip
+1714		1745		1774		1487
+1715		1746		1775		1671
+1716				1776		1672
+				1777				
+								
+consumer thread #20   time: 21:47:30.192   dozen #9
+
+plain		jelly		coconut		honey-dip
+1953		1761		1794		1690
+		1762		1795				
+		1994		1796				
+		1995		2020				
+				2021				
+				2022				
+								
+consumer thread #20   time: 21:47:30.195   dozen #10
+
+plain		jelly		coconut		honey-dip
+1977		2015		2036		1923
+		2020		2037		1924
+		2021				1933
+		2022						
+		2023						
+		2024						
+
+****************************** cons30 ******************************		
+consumer thread #30   time: 21:47:30.157   dozen #1
+
+plain		jelly		coconut		honey-dip
+25		64		35		66
+86		99		60		98
+127		120		129				
+				130				
+								
+consumer thread #30   time: 21:47:30.163   dozen #2
+
+plain		jelly		coconut		honey-dip
+233		253		241		244
+234				242		245
+235				243		246
+				244				
+				245				
+								
+consumer thread #30   time: 21:47:30.168   dozen #3
+
+plain		jelly		coconut		honey-dip
+301		302		324		295
+424		303		325		471
+425				437		472
+				466				
+								
+consumer thread #30   time: 21:47:30.171   dozen #4
+
+plain		jelly		coconut		honey-dip
+510		525		521				
+548		544		551				
+		545		571				
+		614		595				
+		624						
+		640						
+								
+consumer thread #30   time: 21:47:30.173   dozen #5
+
+plain		jelly		coconut		honey-dip
+629		691		859		793
+630		692		889				
+776		840						
+777								
+778								
+825								
+								
+consumer thread #30   time: 21:47:30.175   dozen #6
+
+plain		jelly		coconut		honey-dip
+854		911		973		871
+855		955		974		913
+856		956						
+899								
+900								
+								
+consumer thread #30   time: 21:47:30.176   dozen #7
+
+plain		jelly		coconut		honey-dip
+924		976		985		931
+925		977		986		932
+926				987		933
+				988				
+								
+consumer thread #30   time: 21:47:30.176   dozen #8
+
+plain		jelly		coconut		honey-dip
+945		990		1036		949
+969		1021		1080		965
+999		1051		1081				
+		1052						
+								
+consumer thread #30   time: 21:47:30.177   dozen #9
+
+plain		jelly		coconut		honey-dip
+1045		1118		1133		1059
+1046		1119		1134				
+1047		1120		1135				
+1048		1121						
+								
+consumer thread #30   time: 21:47:30.179   dozen #10
+
+plain		jelly		coconut		honey-dip
+1229		1257		1317		1222
+1230		1258				1580
+1231		1639						
+1232								
+1233								
+1611								
+								
+****************************** cons40 ******************************
+consumer thread #40   time: 21:47:30.158   dozen #1
+
+plain		jelly		coconut		honey-dip
+361		388		387		51
+362		389		388		52
+				389		388
+				390		389
+								
+consumer thread #40   time: 21:47:30.170   dozen #2
+
+plain		jelly		coconut		honey-dip
+423		448				469
+478		486				470
+		501				511
+		529				515
+		557				516
+								
+consumer thread #40   time: 21:47:30.172   dozen #3
+
+plain		jelly		coconut		honey-dip
+566		616		743		602
+588		626				603
+		627				622
+		735				694
+						695
+								
+consumer thread #40   time: 21:47:30.174   dozen #4
+
+plain		jelly		coconut		honey-dip
+819		880		849		837
+823		881		882		838
+		883				841
+		885						
+		886						
+								
+consumer thread #40   time: 21:47:30.175   dozen #5
+
+plain		jelly		coconut		honey-dip
+1414		1431		1326		1227
+1415		1432		1473				
+1416		1433		1474				
+		1434						
+		1435						
+								
+consumer thread #40   time: 21:47:30.188   dozen #6
+
+plain		jelly		coconut		honey-dip
+1645		1677		1717		1398
+1646		1678		1718		1607
+1647				1719				
+				1720				
+				1721				
+								
+consumer thread #40   time: 21:47:30.191   dozen #7
+
+plain		jelly		coconut		honey-dip
+1665		1700		1738		1631
+1666		1701		1739				
+		1702		1740				
+		1703		1950				
+		1914						
+								
+consumer thread #40   time: 21:47:30.194   dozen #8
+
+plain		jelly		coconut		honey-dip
+1916		1949		1977		1867
+2093		1950						
+2094		2152						
+2095		2153						
+2096								
+2097								
+								
+consumer thread #40   time: 21:47:30.197   dozen #9
+
+plain		jelly		coconut		honey-dip
+2274		2168		2324		2079
+		2343		2325		2232
+		2344				2233
+		2345				2234
+						2235
+								
+consumer thread #40   time: 21:47:30.199   dozen #10
+
+plain		jelly		coconut		honey-dip
+2304		2368		2551		2253
+2534		2613		2552		2460
+2535		2614				2461
+						2462
+								
+****************************** cons50 ******************************
+consumer thread #50   time: 21:47:30.159   dozen #1
+
+plain		jelly		coconut		honey-dip
+430		454		459		636
+598		502		658				
+		532		659				
+		655		691				
+		656						
+								
+consumer thread #50   time: 21:47:30.173   dozen #2
+
+plain		jelly		coconut		honey-dip
+732		759		801		743
+1152		782		893		744
+1153				1091		1013
+				1092				
+								
+consumer thread #50   time: 21:47:30.179   dozen #3
+
+plain		jelly		coconut		honey-dip
+		1282		1580		1246
+		1533		1581		1466
+		1534				1467
+		1535				1468
+		1536						
+		1537						
+								
+consumer thread #50   time: 21:47:30.190   dozen #4
+
+plain		jelly		coconut		honey-dip
+2206		2277		2266		1517
+2207		2278		2267		1959
+2208		2279		2268				
+2209								
+								
+consumer thread #50   time: 21:47:30.199   dozen #5
+
+plain		jelly		coconut		honey-dip
+2248		2309		2294		2198
+2448		2310		2455		2406
+2449		2518						
+		2519						
+		2520						
+								
+consumer thread #50   time: 21:47:30.201   dozen #6
+
+plain		jelly		coconut		honey-dip
+2486		2557		2488		2428
+		2558		2489		2665
+		2559		2730				
+		2560		2922				
+		3010						
+								
+consumer thread #50   time: 21:47:30.207   dozen #7
+
+plain		jelly		coconut		honey-dip
+3111		3414		3342		2893
+3335				3343		3045
+3336				3344				
+				3345				
+				3346				
+				3347				
+								
+consumer thread #50   time: 21:47:30.211   dozen #8
+
+plain		jelly		coconut		honey-dip
+		3442		3365				
+		3443		3366				
+		3444		3367				
+		3445		3368				
+		3446		3369				
+				3370				
+				3371				
+								
+consumer thread #50   time: 21:47:30.211   dozen #9
+
+plain		jelly		coconut		honey-dip
+3596		3480		3604		3311
+		3481		3605		3499
+		3692		3606		3500
+				3620				
+				3621				
+								
+consumer thread #50   time: 21:47:30.214   dozen #10
+
+plain		jelly		coconut		honey-dip
+3625		3728		3639		3526
+3626		3729		3640				
+3627		3730		3641				
+				3642				
+				3643				
+								

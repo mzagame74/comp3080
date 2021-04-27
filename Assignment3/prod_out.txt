@@ -1,0 +1,2240 @@
+in producer with rand = 1
+prod type 1 serial 1
+in producer with rand = 2
+prod type 2 serial 1
+in producer with rand = 3
+prod type 3 serial 1
+in producer with rand = 0
+prod type 0 serial 1
+in producer with rand = 0
+prod type 0 serial 2
+in producer with rand = 2
+prod type 2 serial 2
+in producer with rand = 0
+prod type 0 serial 3
+in producer with rand = 2
+prod type 2 serial 3
+in producer with rand = 1
+prod type 1 serial 2
+in producer with rand = 2
+prod type 2 serial 4
+in producer with rand = 3
+prod type 3 serial 2
+in producer with rand = 2
+prod type 2 serial 5
+in producer with rand = 2
+prod type 2 serial 6
+in producer with rand = 3
+prod type 3 serial 3
+in producer with rand = 2
+prod type 2 serial 7
+in producer with rand = 0
+prod type 0 serial 4
+in producer with rand = 2
+prod type 2 serial 8
+in producer with rand = 2
+prod type 2 serial 9
+in producer with rand = 3
+prod type 3 serial 4
+in producer with rand = 3
+prod type 3 serial 5
+in producer with rand = 3
+prod type 3 serial 6
+in producer with rand = 0
+prod type 0 serial 5
+in producer with rand = 0
+prod type 0 serial 6
+in producer with rand = 3
+prod type 3 serial 7
+in producer with rand = 0
+prod type 0 serial 7
+in producer with rand = 3
+prod type 3 serial 8
+in producer with rand = 1
+prod type 1 serial 3
+in producer with rand = 0
+prod type 0 serial 8
+in producer with rand = 1
+prod type 1 serial 4
+in producer with rand = 0
+prod type 0 serial 9
+in producer with rand = 3
+prod type 3 serial 9
+in producer with rand = 0
+prod type 0 serial 10
+in producer with rand = 3
+prod type 3 serial 10
+in producer with rand = 3
+prod type 3 serial 11
+in producer with rand = 1
+prod type 1 serial 5
+in producer with rand = 2
+prod type 2 serial 10
+in producer with rand = 3
+prod type 3 serial 12
+in producer with rand = 1
+prod type 1 serial 6
+in producer with rand = 0
+prod type 0 serial 11
+in producer with rand = 2
+prod type 2 serial 11
+in producer with rand = 3
+prod type 3 serial 13
+in producer with rand = 1
+prod type 1 serial 7
+in producer with rand = 0
+prod type 0 serial 12
+in producer with rand = 1
+prod type 1 serial 8
+in producer with rand = 2
+prod type 2 serial 12
+in producer with rand = 3
+prod type 3 serial 14
+in producer with rand = 3
+prod type 3 serial 15
+in producer with rand = 1
+prod type 1 serial 9
+in producer with rand = 2
+prod type 2 serial 13
+in producer with rand = 3
+prod type 3 serial 16
+in producer with rand = 3
+prod type 3 serial 17
+in producer with rand = 1
+prod type 1 serial 10
+in producer with rand = 0
+prod type 0 serial 13
+in producer with rand = 1
+prod type 1 serial 11
+in producer with rand = 0
+prod type 0 serial 14
+in producer with rand = 3
+prod type 3 serial 18
+in producer with rand = 3
+prod type 3 serial 19
+in producer with rand = 2
+prod type 2 serial 14
+in producer with rand = 2
+prod type 2 serial 15
+in producer with rand = 0
+prod type 0 serial 15
+in producer with rand = 1
+prod type 1 serial 12
+in producer with rand = 1
+prod type 1 serial 13
+in producer with rand = 0
+prod type 0 serial 16
+in producer with rand = 2
+prod type 2 serial 16
+in producer with rand = 3
+prod type 3 serial 20
+in producer with rand = 1
+prod type 1 serial 14
+in producer with rand = 3
+prod type 3 serial 21
+in producer with rand = 1
+prod type 1 serial 15
+in producer with rand = 3
+prod type 3 serial 22
+in producer with rand = 0
+prod type 0 serial 17
+in producer with rand = 0
+prod type 0 serial 18
+in producer with rand = 3
+prod type 3 serial 23
+in producer with rand = 1
+prod type 1 serial 16
+in producer with rand = 1
+prod type 1 serial 17
+in producer with rand = 2
+prod type 2 serial 17
+in producer with rand = 2
+prod type 2 serial 18
+in producer with rand = 3
+prod type 3 serial 24
+in producer with rand = 3
+prod type 3 serial 25
+in producer with rand = 3
+prod type 3 serial 26
+in producer with rand = 0
+prod type 0 serial 19
+in producer with rand = 2
+prod type 2 serial 19
+in producer with rand = 1
+prod type 1 serial 18
+in producer with rand = 1
+prod type 1 serial 19
+in producer with rand = 3
+prod type 3 serial 27
+in producer with rand = 3
+prod type 3 serial 28
+in producer with rand = 3
+prod type 3 serial 29
+in producer with rand = 0
+prod type 0 serial 20
+in producer with rand = 3
+prod type 3 serial 30
+in producer with rand = 3
+prod type 3 serial 31
+in producer with rand = 3
+prod type 3 serial 32
+in producer with rand = 3
+prod type 3 serial 33
+in producer with rand = 3
+prod type 3 serial 34
+in producer with rand = 0
+prod type 0 serial 21
+in producer with rand = 2
+prod type 2 serial 20
+in producer with rand = 0
+prod type 0 serial 22
+in producer with rand = 0
+prod type 0 serial 23
+in producer with rand = 0
+prod type 0 serial 24
+in producer with rand = 2
+prod type 2 serial 21
+in producer with rand = 2
+prod type 2 serial 22
+in producer with rand = 2
+prod type 2 serial 23
+in producer with rand = 3
+prod type 3 serial 35
+in producer with rand = 3
+prod type 3 serial 36
+in producer with rand = 2
+prod type 2 serial 24
+in producer with rand = 2
+prod type 2 serial 25
+in producer with rand = 1
+prod type 1 serial 20
+in producer with rand = 2
+prod type 2 serial 26
+in producer with rand = 2
+prod type 2 serial 27
+in producer with rand = 1
+prod type 1 serial 21
+in producer with rand = 1
+prod type 1 serial 22
+in producer with rand = 2
+prod type 2 serial 28
+in producer with rand = 2
+prod type 2 serial 29
+in producer with rand = 2
+prod type 2 serial 30
+in producer with rand = 2
+prod type 2 serial 31
+in producer with rand = 2
+prod type 2 serial 32
+in producer with rand = 1
+prod type 1 serial 23
+in producer with rand = 3
+prod type 3 serial 37
+in producer with rand = 1
+prod type 1 serial 24
+in producer with rand = 0
+prod type 0 serial 25
+in producer with rand = 1
+prod type 1 serial 25
+in producer with rand = 2
+prod type 2 serial 33
+in producer with rand = 0
+prod type 0 serial 26
+in producer with rand = 0
+prod type 0 serial 27
+in producer with rand = 2
+prod type 2 serial 34
+in producer with rand = 3
+prod type 3 serial 38
+in producer with rand = 2
+prod type 2 serial 35
+in producer with rand = 2
+prod type 2 serial 36
+in producer with rand = 1
+prod type 1 serial 26
+in producer with rand = 3
+prod type 3 serial 39
+in producer with rand = 0
+prod type 0 serial 28
+in producer with rand = 3
+prod type 3 serial 40
+in producer with rand = 0
+prod type 0 serial 29
+in producer with rand = 3
+prod type 3 serial 41
+in producer with rand = 0
+prod type 0 serial 30
+in producer with rand = 3
+prod type 3 serial 42
+in producer with rand = 3
+prod type 3 serial 43
+in producer with rand = 3
+prod type 3 serial 44
+in producer with rand = 0
+prod type 0 serial 31
+in producer with rand = 3
+prod type 3 serial 45
+in producer with rand = 2
+prod type 2 serial 37
+in producer with rand = 2
+prod type 2 serial 38
+in producer with rand = 1
+prod type 1 serial 27
+in producer with rand = 1
+prod type 1 serial 28
+in producer with rand = 2
+prod type 2 serial 39
+in producer with rand = 2
+prod type 2 serial 40
+in producer with rand = 2
+prod type 2 serial 41
+in producer with rand = 0
+prod type 0 serial 32
+in producer with rand = 3
+prod type 3 serial 46
+in producer with rand = 2
+prod type 2 serial 42
+in producer with rand = 1
+prod type 1 serial 29
+in producer with rand = 0
+prod type 0 serial 33
+in producer with rand = 2
+prod type 2 serial 43
+in producer with rand = 1
+prod type 1 serial 30
+in producer with rand = 2
+prod type 2 serial 44
+in producer with rand = 3
+prod type 3 serial 47
+in producer with rand = 1
+prod type 1 serial 31
+in producer with rand = 3
+prod type 3 serial 48
+in producer with rand = 0
+prod type 0 serial 34
+in producer with rand = 2
+prod type 2 serial 45
+in producer with rand = 0
+prod type 0 serial 35
+in producer with rand = 2
+prod type 2 serial 46
+in producer with rand = 1
+prod type 1 serial 32
+in producer with rand = 3
+prod type 3 serial 49
+in producer with rand = 3
+prod type 3 serial 50
+in producer with rand = 1
+prod type 1 serial 33
+in producer with rand = 1
+prod type 1 serial 34
+in producer with rand = 3
+prod type 3 serial 51
+in producer with rand = 2
+prod type 2 serial 47
+in producer with rand = 1
+prod type 1 serial 35
+in producer with rand = 2
+prod type 2 serial 48
+in producer with rand = 1
+prod type 1 serial 36
+in producer with rand = 0
+prod type 0 serial 36
+in producer with rand = 1
+prod type 1 serial 37
+in producer with rand = 2
+prod type 2 serial 49
+in producer with rand = 1
+prod type 1 serial 38
+in producer with rand = 1
+prod type 1 serial 39
+in producer with rand = 1
+prod type 1 serial 40
+in producer with rand = 2
+prod type 2 serial 50
+in producer with rand = 0
+prod type 0 serial 37
+in producer with rand = 3
+prod type 3 serial 52
+in producer with rand = 1
+prod type 1 serial 41
+in producer with rand = 0
+prod type 0 serial 38
+in producer with rand = 1
+prod type 1 serial 42
+in producer with rand = 0
+prod type 0 serial 39
+in producer with rand = 3
+prod type 3 serial 53
+in producer with rand = 1
+prod type 1 serial 43
+in producer with rand = 1
+prod type 1 serial 44
+in producer with rand = 3
+prod type 3 serial 54
+in producer with rand = 2
+prod type 2 serial 51
+in producer with rand = 2
+prod type 2 serial 52
+in producer with rand = 0
+prod type 0 serial 40
+in producer with rand = 0
+prod type 0 serial 41
+in producer with rand = 2
+prod type 2 serial 53
+in producer with rand = 0
+prod type 0 serial 42
+in producer with rand = 0
+prod type 0 serial 43
+in producer with rand = 2
+prod type 2 serial 54
+in producer with rand = 1
+prod type 1 serial 45
+in producer with rand = 2
+prod type 2 serial 55
+in producer with rand = 3
+prod type 3 serial 55
+in producer with rand = 0
+prod type 0 serial 44
+in producer with rand = 0
+prod type 0 serial 45
+in producer with rand = 3
+prod type 3 serial 56
+in producer with rand = 0
+prod type 0 serial 46
+in producer with rand = 3
+prod type 3 serial 57
+in producer with rand = 3
+prod type 3 serial 58
+in producer with rand = 1
+prod type 1 serial 46
+in producer with rand = 3
+prod type 3 serial 59
+in producer with rand = 0
+prod type 0 serial 47
+in producer with rand = 3
+prod type 3 serial 60
+in producer with rand = 2
+prod type 2 serial 56
+in producer with rand = 2
+prod type 2 serial 57
+in producer with rand = 1
+prod type 1 serial 47
+in producer with rand = 2
+prod type 2 serial 58
+in producer with rand = 1
+prod type 1 serial 48
+in producer with rand = 1
+prod type 1 serial 49
+in producer with rand = 3
+prod type 3 serial 61
+in producer with rand = 1
+prod type 1 serial 50
+in producer with rand = 1
+prod type 1 serial 51
+in producer with rand = 2
+prod type 2 serial 59
+in producer with rand = 0
+prod type 0 serial 48
+in producer with rand = 2
+prod type 2 serial 60
+in producer with rand = 2
+prod type 2 serial 61
+in producer with rand = 2
+prod type 2 serial 62
+in producer with rand = 2
+prod type 2 serial 63
+in producer with rand = 2
+prod type 2 serial 64
+in producer with rand = 1
+prod type 1 serial 52
+in producer with rand = 0
+prod type 0 serial 49
+in producer with rand = 1
+prod type 1 serial 53
+in producer with rand = 1
+prod type 1 serial 54
+in producer with rand = 0
+prod type 0 serial 50
+in producer with rand = 0
+prod type 0 serial 51
+in producer with rand = 0
+prod type 0 serial 52
+in producer with rand = 1
+prod type 1 serial 55
+in producer with rand = 2
+prod type 2 serial 65
+in producer with rand = 0
+prod type 0 serial 53
+in producer with rand = 3
+prod type 3 serial 62
+in producer with rand = 2
+prod type 2 serial 66
+in producer with rand = 1
+prod type 1 serial 56
+in producer with rand = 2
+prod type 2 serial 67
+in producer with rand = 2
+prod type 2 serial 68
+in producer with rand = 3
+prod type 3 serial 63
+in producer with rand = 1
+prod type 1 serial 57
+in producer with rand = 2
+prod type 2 serial 69
+in producer with rand = 2
+prod type 2 serial 70
+in producer with rand = 2
+prod type 2 serial 71
+in producer with rand = 0
+prod type 0 serial 54
+in producer with rand = 3
+prod type 3 serial 64
+in producer with rand = 3
+prod type 3 serial 65
+in producer with rand = 2
+prod type 2 serial 72
+in producer with rand = 1
+prod type 1 serial 58
+in producer with rand = 2
+prod type 2 serial 73
+in producer with rand = 0
+prod type 0 serial 55
+in producer with rand = 2
+prod type 2 serial 74
+in producer with rand = 3
+prod type 3 serial 66
+in producer with rand = 0
+prod type 0 serial 56
+in producer with rand = 2
+prod type 2 serial 75
+in producer with rand = 3
+prod type 3 serial 67
+in producer with rand = 0
+prod type 0 serial 57
+in producer with rand = 0
+prod type 0 serial 58
+in producer with rand = 0
+prod type 0 serial 59
+in producer with rand = 2
+prod type 2 serial 76
+in producer with rand = 2
+prod type 2 serial 77
+in producer with rand = 0
+prod type 0 serial 60
+in producer with rand = 0
+prod type 0 serial 61
+in producer with rand = 0
+prod type 0 serial 62
+in producer with rand = 1
+prod type 1 serial 59
+in producer with rand = 1
+prod type 1 serial 60
+in producer with rand = 1
+prod type 1 serial 61
+in producer with rand = 3
+prod type 3 serial 68
+in producer with rand = 2
+prod type 2 serial 78
+in producer with rand = 3
+prod type 3 serial 69
+in producer with rand = 0
+prod type 0 serial 63
+in producer with rand = 2
+prod type 2 serial 79
+in producer with rand = 1
+prod type 1 serial 62
+in producer with rand = 3
+prod type 3 serial 70
+in producer with rand = 0
+prod type 0 serial 64
+in producer with rand = 2
+prod type 2 serial 80
+in producer with rand = 2
+prod type 2 serial 81
+in producer with rand = 0
+prod type 0 serial 65
+in producer with rand = 3
+prod type 3 serial 71
+in producer with rand = 3
+prod type 3 serial 72
+in producer with rand = 3
+prod type 3 serial 73
+in producer with rand = 0
+prod type 0 serial 66
+in producer with rand = 3
+prod type 3 serial 74
+in producer with rand = 2
+prod type 2 serial 82
+in producer with rand = 2
+prod type 2 serial 83
+in producer with rand = 0
+prod type 0 serial 67
+in producer with rand = 0
+prod type 0 serial 68
+in producer with rand = 0
+prod type 0 serial 69
+in producer with rand = 1
+prod type 1 serial 63
+in producer with rand = 0
+prod type 0 serial 70
+in producer with rand = 3
+prod type 3 serial 75
+in producer with rand = 1
+prod type 1 serial 64
+in producer with rand = 0
+prod type 0 serial 71
+in producer with rand = 1
+prod type 1 serial 65
+in producer with rand = 2
+prod type 2 serial 84
+in producer with rand = 0
+prod type 0 serial 72
+in producer with rand = 2
+prod type 2 serial 85
+in producer with rand = 2
+prod type 2 serial 86
+in producer with rand = 3
+prod type 3 serial 76
+in producer with rand = 2
+prod type 2 serial 87
+in producer with rand = 1
+prod type 1 serial 66
+in producer with rand = 1
+prod type 1 serial 67
+in producer with rand = 2
+prod type 2 serial 88
+in producer with rand = 3
+prod type 3 serial 77
+in producer with rand = 0
+prod type 0 serial 73
+in producer with rand = 2
+prod type 2 serial 89
+in producer with rand = 1
+prod type 1 serial 68
+in producer with rand = 0
+prod type 0 serial 74
+in producer with rand = 3
+prod type 3 serial 78
+in producer with rand = 2
+prod type 2 serial 90
+in producer with rand = 3
+prod type 3 serial 79
+in producer with rand = 3
+prod type 3 serial 80
+in producer with rand = 2
+prod type 2 serial 91
+in producer with rand = 2
+prod type 2 serial 92
+in producer with rand = 2
+prod type 2 serial 93
+in producer with rand = 2
+prod type 2 serial 94
+in producer with rand = 1
+prod type 1 serial 69
+in producer with rand = 0
+prod type 0 serial 75
+in producer with rand = 3
+prod type 3 serial 81
+in producer with rand = 2
+prod type 2 serial 95
+in producer with rand = 0
+prod type 0 serial 76
+in producer with rand = 3
+prod type 3 serial 82
+in producer with rand = 2
+prod type 2 serial 96
+in producer with rand = 0
+prod type 0 serial 77
+in producer with rand = 3
+prod type 3 serial 83
+in producer with rand = 3
+prod type 3 serial 84
+in producer with rand = 2
+prod type 2 serial 97
+in producer with rand = 1
+prod type 1 serial 70
+in producer with rand = 3
+prod type 3 serial 85
+in producer with rand = 0
+prod type 0 serial 78
+in producer with rand = 3
+prod type 3 serial 86
+in producer with rand = 0
+prod type 0 serial 79
+in producer with rand = 1
+prod type 1 serial 71
+in producer with rand = 0
+prod type 0 serial 80
+in producer with rand = 0
+prod type 0 serial 81
+in producer with rand = 2
+prod type 2 serial 98
+in producer with rand = 3
+prod type 3 serial 87
+in producer with rand = 3
+prod type 3 serial 88
+in producer with rand = 0
+prod type 0 serial 82
+in producer with rand = 2
+prod type 2 serial 99
+in producer with rand = 1
+prod type 1 serial 72
+in producer with rand = 3
+prod type 3 serial 89
+in producer with rand = 1
+prod type 1 serial 73
+in producer with rand = 3
+prod type 3 serial 90
+in producer with rand = 1
+prod type 1 serial 74
+in producer with rand = 2
+prod type 2 serial 100
+in producer with rand = 0
+prod type 0 serial 83
+in producer with rand = 2
+prod type 2 serial 101
+in producer with rand = 0
+prod type 0 serial 84
+in producer with rand = 3
+prod type 3 serial 91
+in producer with rand = 3
+prod type 3 serial 92
+in producer with rand = 0
+prod type 0 serial 85
+in producer with rand = 1
+prod type 1 serial 75
+in producer with rand = 2
+prod type 2 serial 102
+in producer with rand = 2
+prod type 2 serial 103
+in producer with rand = 1
+prod type 1 serial 76
+in producer with rand = 3
+prod type 3 serial 93
+in producer with rand = 0
+prod type 0 serial 86
+in producer with rand = 2
+prod type 2 serial 104
+in producer with rand = 1
+prod type 1 serial 77
+in producer with rand = 2
+prod type 2 serial 105
+in producer with rand = 3
+prod type 3 serial 94
+in producer with rand = 3
+prod type 3 serial 95
+in producer with rand = 3
+prod type 3 serial 96
+in producer with rand = 3
+prod type 3 serial 97
+in producer with rand = 0
+prod type 0 serial 87
+in producer with rand = 1
+prod type 1 serial 78
+in producer with rand = 0
+prod type 0 serial 88
+in producer with rand = 3
+prod type 3 serial 98
+in producer with rand = 2
+prod type 2 serial 106
+in producer with rand = 2
+prod type 2 serial 107
+in producer with rand = 2
+prod type 2 serial 108
+in producer with rand = 2
+prod type 2 serial 109
+in producer with rand = 2
+prod type 2 serial 110
+in producer with rand = 3
+prod type 3 serial 99
+in producer with rand = 3
+prod type 3 serial 100
+in producer with rand = 1
+prod type 1 serial 79
+in producer with rand = 0
+prod type 0 serial 89
+in producer with rand = 0
+prod type 0 serial 90
+in producer with rand = 1
+prod type 1 serial 80
+in producer with rand = 2
+prod type 2 serial 111
+in producer with rand = 2
+prod type 2 serial 112
+in producer with rand = 2
+prod type 2 serial 113
+in producer with rand = 3
+prod type 3 serial 101
+in producer with rand = 3
+prod type 3 serial 102
+in producer with rand = 2
+prod type 2 serial 114
+in producer with rand = 2
+prod type 2 serial 115
+in producer with rand = 2
+prod type 2 serial 116
+in producer with rand = 3
+prod type 3 serial 103
+in producer with rand = 2
+prod type 2 serial 117
+in producer with rand = 0
+prod type 0 serial 91
+in producer with rand = 1
+prod type 1 serial 81
+in producer with rand = 0
+prod type 0 serial 92
+in producer with rand = 3
+prod type 3 serial 104
+in producer with rand = 1
+prod type 1 serial 82
+in producer with rand = 1
+prod type 1 serial 83
+in producer with rand = 2
+prod type 2 serial 118
+in producer with rand = 1
+prod type 1 serial 84
+in producer with rand = 1
+prod type 1 serial 85
+in producer with rand = 1
+prod type 1 serial 86
+in producer with rand = 2
+prod type 2 serial 119
+in producer with rand = 2
+prod type 2 serial 120
+in producer with rand = 1
+prod type 1 serial 87
+in producer with rand = 2
+prod type 2 serial 121
+in producer with rand = 2
+prod type 2 serial 122
+in producer with rand = 0
+prod type 0 serial 93
+in producer with rand = 2
+prod type 2 serial 123
+in producer with rand = 1
+prod type 1 serial 88
+in producer with rand = 2
+prod type 2 serial 124
+in producer with rand = 2
+prod type 2 serial 125
+in producer with rand = 0
+prod type 0 serial 94
+in producer with rand = 1
+prod type 1 serial 89
+in producer with rand = 3
+prod type 3 serial 105
+in producer with rand = 3
+prod type 3 serial 106
+in producer with rand = 2
+prod type 2 serial 126
+in producer with rand = 3
+prod type 3 serial 107
+in producer with rand = 0
+prod type 0 serial 95
+in producer with rand = 0
+prod type 0 serial 96
+in producer with rand = 2
+prod type 2 serial 127
+in producer with rand = 1
+prod type 1 serial 90
+in producer with rand = 3
+prod type 3 serial 108
+in producer with rand = 0
+prod type 0 serial 97
+in producer with rand = 0
+prod type 0 serial 98
+in producer with rand = 0
+prod type 0 serial 99
+in producer with rand = 2
+prod type 2 serial 128
+in producer with rand = 3
+prod type 3 serial 109
+in producer with rand = 0
+prod type 0 serial 100
+in producer with rand = 0
+prod type 0 serial 101
+in producer with rand = 2
+prod type 2 serial 129
+in producer with rand = 0
+prod type 0 serial 102
+in producer with rand = 2
+prod type 2 serial 130
+in producer with rand = 0
+prod type 0 serial 103
+in producer with rand = 1
+prod type 1 serial 91
+in producer with rand = 1
+prod type 1 serial 92
+in producer with rand = 2
+prod type 2 serial 131
+in producer with rand = 0
+prod type 0 serial 104
+in producer with rand = 0
+prod type 0 serial 105
+in producer with rand = 0
+prod type 0 serial 106
+in producer with rand = 1
+prod type 1 serial 93
+in producer with rand = 0
+prod type 0 serial 107
+in producer with rand = 1
+prod type 1 serial 94
+in producer with rand = 2
+prod type 2 serial 132
+in producer with rand = 0
+prod type 0 serial 108
+in producer with rand = 1
+prod type 1 serial 95
+in producer with rand = 3
+prod type 3 serial 110
+in producer with rand = 0
+prod type 0 serial 109
+in producer with rand = 3
+prod type 3 serial 111
+in producer with rand = 3
+prod type 3 serial 112
+in producer with rand = 2
+prod type 2 serial 133
+in producer with rand = 3
+prod type 3 serial 113
+in producer with rand = 2
+prod type 2 serial 134
+in producer with rand = 1
+prod type 1 serial 96
+in producer with rand = 3
+prod type 3 serial 114
+in producer with rand = 3
+prod type 3 serial 115
+in producer with rand = 3
+prod type 3 serial 116
+in producer with rand = 3
+prod type 3 serial 117
+in producer with rand = 2
+prod type 2 serial 135
+in producer with rand = 0
+prod type 0 serial 110
+in producer with rand = 1
+prod type 1 serial 97
+in producer with rand = 2
+prod type 2 serial 136
+in producer with rand = 0
+prod type 0 serial 111
+in producer with rand = 0
+prod type 0 serial 112
+in producer with rand = 2
+prod type 2 serial 137
+in producer with rand = 2
+prod type 2 serial 138
+in producer with rand = 0
+prod type 0 serial 113
+in producer with rand = 1
+prod type 1 serial 98
+in producer with rand = 2
+prod type 2 serial 139
+in producer with rand = 2
+prod type 2 serial 140
+in producer with rand = 0
+prod type 0 serial 114
+in producer with rand = 2
+prod type 2 serial 141
+in producer with rand = 1
+prod type 1 serial 99
+in producer with rand = 2
+prod type 2 serial 142
+in producer with rand = 0
+prod type 0 serial 115
+in producer with rand = 1
+prod type 1 serial 100
+in producer with rand = 2
+prod type 2 serial 143
+in producer with rand = 1
+prod type 1 serial 101
+in producer with rand = 3
+prod type 3 serial 118
+in producer with rand = 1
+prod type 1 serial 102
+in producer with rand = 3
+prod type 3 serial 119
+in producer with rand = 3
+prod type 3 serial 120
+in producer with rand = 3
+prod type 3 serial 121
+in producer with rand = 2
+prod type 2 serial 144
+in producer with rand = 2
+prod type 2 serial 145
+in producer with rand = 1
+prod type 1 serial 103
+in producer with rand = 0
+prod type 0 serial 116
+in producer with rand = 1
+prod type 1 serial 104
+in producer with rand = 1
+prod type 1 serial 105
+in producer with rand = 1
+prod type 1 serial 106
+in producer with rand = 1
+prod type 1 serial 107
+in producer with rand = 2
+prod type 2 serial 146
+in producer with rand = 2
+prod type 2 serial 147
+in producer with rand = 1
+prod type 1 serial 108
+in producer with rand = 3
+prod type 3 serial 122
+in producer with rand = 2
+prod type 2 serial 148
+in producer with rand = 1
+prod type 1 serial 109
+in producer with rand = 3
+prod type 3 serial 123
+in producer with rand = 2
+prod type 2 serial 149
+in producer with rand = 3
+prod type 3 serial 124
+in producer with rand = 0
+prod type 0 serial 117
+in producer with rand = 3
+prod type 3 serial 125
+in producer with rand = 3
+prod type 3 serial 126
+in producer with rand = 2
+prod type 2 serial 150
+in producer with rand = 2
+prod type 2 serial 151
+in producer with rand = 0
+prod type 0 serial 118
+in producer with rand = 3
+prod type 3 serial 127
+in producer with rand = 3
+prod type 3 serial 128
+in producer with rand = 3
+prod type 3 serial 129
+in producer with rand = 1
+prod type 1 serial 110
+in producer with rand = 3
+prod type 3 serial 130
+in producer with rand = 0
+prod type 0 serial 119
+in producer with rand = 0
+prod type 0 serial 120
+in producer with rand = 0
+prod type 0 serial 121
+in producer with rand = 1
+prod type 1 serial 111
+in producer with rand = 0
+prod type 0 serial 122
+in producer with rand = 2
+prod type 2 serial 152
+in producer with rand = 3
+prod type 3 serial 131
+in producer with rand = 2
+prod type 2 serial 153
+in producer with rand = 0
+prod type 0 serial 123
+in producer with rand = 2
+prod type 2 serial 154
+in producer with rand = 3
+prod type 3 serial 132
+in producer with rand = 3
+prod type 3 serial 133
+in producer with rand = 1
+prod type 1 serial 112
+in producer with rand = 0
+prod type 0 serial 124
+in producer with rand = 3
+prod type 3 serial 134
+in producer with rand = 0
+prod type 0 serial 125
+in producer with rand = 1
+prod type 1 serial 113
+in producer with rand = 1
+prod type 1 serial 114
+in producer with rand = 1
+prod type 1 serial 115
+in producer with rand = 1
+prod type 1 serial 116
+in producer with rand = 2
+prod type 2 serial 155
+in producer with rand = 0
+prod type 0 serial 126
+in producer with rand = 2
+prod type 2 serial 156
+in producer with rand = 0
+prod type 0 serial 127
+in producer with rand = 1
+prod type 1 serial 117
+in producer with rand = 3
+prod type 3 serial 135
+in producer with rand = 1
+prod type 1 serial 118
+in producer with rand = 0
+prod type 0 serial 128
+in producer with rand = 0
+prod type 0 serial 129
+in producer with rand = 0
+prod type 0 serial 130
+in producer with rand = 1
+prod type 1 serial 119
+in producer with rand = 2
+prod type 2 serial 157
+in producer with rand = 3
+prod type 3 serial 136
+in producer with rand = 3
+prod type 3 serial 137
+in producer with rand = 2
+prod type 2 serial 158
+in producer with rand = 1
+prod type 1 serial 120
+in producer with rand = 2
+prod type 2 serial 159
+in producer with rand = 3
+prod type 3 serial 138
+in producer with rand = 2
+prod type 2 serial 160
+in producer with rand = 0
+prod type 0 serial 131
+in producer with rand = 0
+prod type 0 serial 132
+in producer with rand = 1
+prod type 1 serial 121
+in producer with rand = 0
+prod type 0 serial 133
+in producer with rand = 3
+prod type 3 serial 139
+in producer with rand = 1
+prod type 1 serial 122
+in producer with rand = 0
+prod type 0 serial 134
+in producer with rand = 2
+prod type 2 serial 161
+in producer with rand = 2
+prod type 2 serial 162
+in producer with rand = 0
+prod type 0 serial 135
+in producer with rand = 0
+prod type 0 serial 136
+in producer with rand = 3
+prod type 3 serial 140
+in producer with rand = 0
+prod type 0 serial 137
+in producer with rand = 0
+prod type 0 serial 138
+in producer with rand = 2
+prod type 2 serial 163
+in producer with rand = 1
+prod type 1 serial 123
+in producer with rand = 3
+prod type 3 serial 141
+in producer with rand = 2
+prod type 2 serial 164
+in producer with rand = 1
+prod type 1 serial 124
+in producer with rand = 1
+prod type 1 serial 125
+in producer with rand = 2
+prod type 2 serial 165
+in producer with rand = 0
+prod type 0 serial 139
+in producer with rand = 0
+prod type 0 serial 140
+in producer with rand = 2
+prod type 2 serial 166
+in producer with rand = 0
+prod type 0 serial 141
+in producer with rand = 1
+prod type 1 serial 126
+in producer with rand = 3
+prod type 3 serial 142
+in producer with rand = 0
+prod type 0 serial 142
+in producer with rand = 3
+prod type 3 serial 143
+in producer with rand = 0
+prod type 0 serial 143
+in producer with rand = 3
+prod type 3 serial 144
+in producer with rand = 1
+prod type 1 serial 127
+in producer with rand = 2
+prod type 2 serial 167
+in producer with rand = 3
+prod type 3 serial 145
+in producer with rand = 3
+prod type 3 serial 146
+in producer with rand = 2
+prod type 2 serial 168
+in producer with rand = 3
+prod type 3 serial 147
+in producer with rand = 1
+prod type 1 serial 128
+in producer with rand = 1
+prod type 1 serial 129
+in producer with rand = 0
+prod type 0 serial 144
+in producer with rand = 2
+prod type 2 serial 169
+in producer with rand = 2
+prod type 2 serial 170
+in producer with rand = 2
+prod type 2 serial 171
+in producer with rand = 3
+prod type 3 serial 148
+in producer with rand = 2
+prod type 2 serial 172
+in producer with rand = 3
+prod type 3 serial 149
+in producer with rand = 2
+prod type 2 serial 173
+in producer with rand = 3
+prod type 3 serial 150
+in producer with rand = 1
+prod type 1 serial 130
+in producer with rand = 1
+prod type 1 serial 131
+in producer with rand = 0
+prod type 0 serial 145
+in producer with rand = 1
+prod type 1 serial 132
+in producer with rand = 1
+prod type 1 serial 133
+in producer with rand = 2
+prod type 2 serial 174
+in producer with rand = 3
+prod type 3 serial 151
+in producer with rand = 2
+prod type 2 serial 175
+in producer with rand = 2
+prod type 2 serial 176
+in producer with rand = 3
+prod type 3 serial 152
+in producer with rand = 1
+prod type 1 serial 134
+in producer with rand = 3
+prod type 3 serial 153
+in producer with rand = 3
+prod type 3 serial 154
+in producer with rand = 1
+prod type 1 serial 135
+in producer with rand = 0
+prod type 0 serial 146
+in producer with rand = 2
+prod type 2 serial 177
+in producer with rand = 1
+prod type 1 serial 136
+in producer with rand = 3
+prod type 3 serial 155
+in producer with rand = 3
+prod type 3 serial 156
+in producer with rand = 1
+prod type 1 serial 137
+in producer with rand = 2
+prod type 2 serial 178
+in producer with rand = 2
+prod type 2 serial 179
+in producer with rand = 3
+prod type 3 serial 157
+in producer with rand = 0
+prod type 0 serial 147
+in producer with rand = 3
+prod type 3 serial 158
+in producer with rand = 0
+prod type 0 serial 148
+in producer with rand = 1
+prod type 1 serial 138
+in producer with rand = 1
+prod type 1 serial 139
+in producer with rand = 1
+prod type 1 serial 140
+in producer with rand = 0
+prod type 0 serial 149
+in producer with rand = 1
+prod type 1 serial 141
+in producer with rand = 0
+prod type 0 serial 150
+in producer with rand = 2
+prod type 2 serial 180
+in producer with rand = 2
+prod type 2 serial 181
+in producer with rand = 3
+prod type 3 serial 159
+in producer with rand = 1
+prod type 1 serial 142
+in producer with rand = 0
+prod type 0 serial 151
+in producer with rand = 3
+prod type 3 serial 160
+in producer with rand = 1
+prod type 1 serial 143
+in producer with rand = 2
+prod type 2 serial 182
+in producer with rand = 3
+prod type 3 serial 161
+in producer with rand = 3
+prod type 3 serial 162
+in producer with rand = 0
+prod type 0 serial 152
+in producer with rand = 2
+prod type 2 serial 183
+in producer with rand = 1
+prod type 1 serial 144
+in producer with rand = 3
+prod type 3 serial 163
+in producer with rand = 1
+prod type 1 serial 145
+in producer with rand = 0
+prod type 0 serial 153
+in producer with rand = 0
+prod type 0 serial 154
+in producer with rand = 3
+prod type 3 serial 164
+in producer with rand = 3
+prod type 3 serial 165
+in producer with rand = 2
+prod type 2 serial 184
+in producer with rand = 3
+prod type 3 serial 166
+in producer with rand = 0
+prod type 0 serial 155
+in producer with rand = 2
+prod type 2 serial 185
+in producer with rand = 1
+prod type 1 serial 146
+in producer with rand = 1
+prod type 1 serial 147
+in producer with rand = 0
+prod type 0 serial 156
+in producer with rand = 3
+prod type 3 serial 167
+in producer with rand = 2
+prod type 2 serial 186
+in producer with rand = 3
+prod type 3 serial 168
+in producer with rand = 2
+prod type 2 serial 187
+in producer with rand = 1
+prod type 1 serial 148
+in producer with rand = 3
+prod type 3 serial 169
+in producer with rand = 1
+prod type 1 serial 149
+in producer with rand = 2
+prod type 2 serial 188
+in producer with rand = 3
+prod type 3 serial 170
+in producer with rand = 0
+prod type 0 serial 157
+in producer with rand = 1
+prod type 1 serial 150
+in producer with rand = 3
+prod type 3 serial 171
+in producer with rand = 2
+prod type 2 serial 189
+in producer with rand = 2
+prod type 2 serial 190
+in producer with rand = 3
+prod type 3 serial 172
+in producer with rand = 3
+prod type 3 serial 173
+in producer with rand = 2
+prod type 2 serial 191
+in producer with rand = 2
+prod type 2 serial 192
+in producer with rand = 1
+prod type 1 serial 151
+in producer with rand = 0
+prod type 0 serial 158
+in producer with rand = 2
+prod type 2 serial 193
+in producer with rand = 3
+prod type 3 serial 174
+in producer with rand = 3
+prod type 3 serial 175
+in producer with rand = 0
+prod type 0 serial 159
+in producer with rand = 0
+prod type 0 serial 160
+in producer with rand = 1
+prod type 1 serial 152
+in producer with rand = 0
+prod type 0 serial 161
+in producer with rand = 3
+prod type 3 serial 176
+in producer with rand = 2
+prod type 2 serial 194
+in producer with rand = 1
+prod type 1 serial 153
+in producer with rand = 0
+prod type 0 serial 162
+in producer with rand = 1
+prod type 1 serial 154
+in producer with rand = 0
+prod type 0 serial 163
+in producer with rand = 2
+prod type 2 serial 195
+in producer with rand = 1
+prod type 1 serial 155
+in producer with rand = 3
+prod type 3 serial 177
+in producer with rand = 0
+prod type 0 serial 164
+in producer with rand = 2
+prod type 2 serial 196
+in producer with rand = 2
+prod type 2 serial 197
+in producer with rand = 0
+prod type 0 serial 165
+in producer with rand = 0
+prod type 0 serial 166
+in producer with rand = 3
+prod type 3 serial 178
+in producer with rand = 2
+prod type 2 serial 198
+in producer with rand = 1
+prod type 1 serial 156
+in producer with rand = 2
+prod type 2 serial 199
+in producer with rand = 2
+prod type 2 serial 200
+in producer with rand = 3
+prod type 3 serial 179
+in producer with rand = 2
+prod type 2 serial 201
+in producer with rand = 1
+prod type 1 serial 157
+in producer with rand = 2
+prod type 2 serial 202
+in producer with rand = 3
+prod type 3 serial 180
+in producer with rand = 1
+prod type 1 serial 158
+in producer with rand = 0
+prod type 0 serial 167
+in producer with rand = 3
+prod type 3 serial 181
+in producer with rand = 3
+prod type 3 serial 182
+in producer with rand = 0
+prod type 0 serial 168
+in producer with rand = 1
+prod type 1 serial 159
+in producer with rand = 1
+prod type 1 serial 160
+in producer with rand = 3
+prod type 3 serial 183
+in producer with rand = 2
+prod type 2 serial 203
+in producer with rand = 0
+prod type 0 serial 169
+in producer with rand = 3
+prod type 3 serial 184
+in producer with rand = 2
+prod type 2 serial 204
+in producer with rand = 0
+prod type 0 serial 170
+in producer with rand = 2
+prod type 2 serial 205
+in producer with rand = 0
+prod type 0 serial 171
+in producer with rand = 0
+prod type 0 serial 172
+in producer with rand = 1
+prod type 1 serial 161
+in producer with rand = 1
+prod type 1 serial 162
+in producer with rand = 0
+prod type 0 serial 173
+in producer with rand = 1
+prod type 1 serial 163
+in producer with rand = 0
+prod type 0 serial 174
+in producer with rand = 1
+prod type 1 serial 164
+in producer with rand = 1
+prod type 1 serial 165
+in producer with rand = 0
+prod type 0 serial 175
+in producer with rand = 3
+prod type 3 serial 185
+in producer with rand = 2
+prod type 2 serial 206
+in producer with rand = 3
+prod type 3 serial 186
+in producer with rand = 2
+prod type 2 serial 207
+in producer with rand = 1
+prod type 1 serial 166
+in producer with rand = 1
+prod type 1 serial 167
+in producer with rand = 3
+prod type 3 serial 187
+in producer with rand = 2
+prod type 2 serial 208
+in producer with rand = 1
+prod type 1 serial 168
+in producer with rand = 1
+prod type 1 serial 169
+in producer with rand = 3
+prod type 3 serial 188
+in producer with rand = 3
+prod type 3 serial 189
+in producer with rand = 1
+prod type 1 serial 170
+in producer with rand = 0
+prod type 0 serial 176
+in producer with rand = 2
+prod type 2 serial 209
+in producer with rand = 1
+prod type 1 serial 171
+in producer with rand = 3
+prod type 3 serial 190
+in producer with rand = 3
+prod type 3 serial 191
+in producer with rand = 2
+prod type 2 serial 210
+in producer with rand = 0
+prod type 0 serial 177
+in producer with rand = 3
+prod type 3 serial 192
+in producer with rand = 2
+prod type 2 serial 211
+in producer with rand = 0
+prod type 0 serial 178
+in producer with rand = 2
+prod type 2 serial 212
+in producer with rand = 1
+prod type 1 serial 172
+in producer with rand = 0
+prod type 0 serial 179
+in producer with rand = 1
+prod type 1 serial 173
+in producer with rand = 3
+prod type 3 serial 193
+in producer with rand = 3
+prod type 3 serial 194
+in producer with rand = 3
+prod type 3 serial 195
+in producer with rand = 3
+prod type 3 serial 196
+in producer with rand = 0
+prod type 0 serial 180
+in producer with rand = 3
+prod type 3 serial 197
+in producer with rand = 1
+prod type 1 serial 174
+in producer with rand = 3
+prod type 3 serial 198
+in producer with rand = 1
+prod type 1 serial 175
+in producer with rand = 3
+prod type 3 serial 199
+in producer with rand = 0
+prod type 0 serial 181
+in producer with rand = 0
+prod type 0 serial 182
+in producer with rand = 0
+prod type 0 serial 183
+in producer with rand = 2
+prod type 2 serial 213
+in producer with rand = 3
+prod type 3 serial 200
+in producer with rand = 1
+prod type 1 serial 176
+in producer with rand = 0
+prod type 0 serial 184
+in producer with rand = 2
+prod type 2 serial 214
+in producer with rand = 2
+prod type 2 serial 215
+in producer with rand = 1
+prod type 1 serial 177
+in producer with rand = 2
+prod type 2 serial 216
+in producer with rand = 0
+prod type 0 serial 185
+in producer with rand = 2
+prod type 2 serial 217
+in producer with rand = 0
+prod type 0 serial 186
+in producer with rand = 0
+prod type 0 serial 187
+in producer with rand = 0
+prod type 0 serial 188
+in producer with rand = 3
+prod type 3 serial 201
+in producer with rand = 3
+prod type 3 serial 202
+in producer with rand = 0
+prod type 0 serial 189
+in producer with rand = 3
+prod type 3 serial 203
+in producer with rand = 1
+prod type 1 serial 178
+in producer with rand = 1
+prod type 1 serial 179
+in producer with rand = 0
+prod type 0 serial 190
+in producer with rand = 0
+prod type 0 serial 191
+in producer with rand = 2
+prod type 2 serial 218
+in producer with rand = 1
+prod type 1 serial 180
+in producer with rand = 0
+prod type 0 serial 192
+in producer with rand = 2
+prod type 2 serial 219
+in producer with rand = 2
+prod type 2 serial 220
+in producer with rand = 3
+prod type 3 serial 204
+in producer with rand = 3
+prod type 3 serial 205
+in producer with rand = 0
+prod type 0 serial 193
+in producer with rand = 3
+prod type 3 serial 206
+in producer with rand = 2
+prod type 2 serial 221
+in producer with rand = 3
+prod type 3 serial 207
+in producer with rand = 2
+prod type 2 serial 222
+in producer with rand = 1
+prod type 1 serial 181
+in producer with rand = 0
+prod type 0 serial 194
+in producer with rand = 1
+prod type 1 serial 182
+in producer with rand = 0
+prod type 0 serial 195
+in producer with rand = 2
+prod type 2 serial 223
+in producer with rand = 2
+prod type 2 serial 224
+in producer with rand = 2
+prod type 2 serial 225
+in producer with rand = 2
+prod type 2 serial 226
+in producer with rand = 3
+prod type 3 serial 208
+in producer with rand = 0
+prod type 0 serial 196
+in producer with rand = 1
+prod type 1 serial 183
+in producer with rand = 2
+prod type 2 serial 227
+in producer with rand = 3
+prod type 3 serial 209
+in producer with rand = 1
+prod type 1 serial 184
+in producer with rand = 2
+prod type 2 serial 228
+in producer with rand = 3
+prod type 3 serial 210
+in producer with rand = 0
+prod type 0 serial 197
+in producer with rand = 0
+prod type 0 serial 198
+in producer with rand = 2
+prod type 2 serial 229
+in producer with rand = 3
+prod type 3 serial 211
+in producer with rand = 1
+prod type 1 serial 185
+in producer with rand = 1
+prod type 1 serial 186
+in producer with rand = 1
+prod type 1 serial 187
+in producer with rand = 0
+prod type 0 serial 199
+in producer with rand = 3
+prod type 3 serial 212
+in producer with rand = 3
+prod type 3 serial 213
+in producer with rand = 1
+prod type 1 serial 188
+in producer with rand = 0
+prod type 0 serial 200
+in producer with rand = 1
+prod type 1 serial 189
+in producer with rand = 0
+prod type 0 serial 201
+in producer with rand = 1
+prod type 1 serial 190
+in producer with rand = 2
+prod type 2 serial 230
+in producer with rand = 3
+prod type 3 serial 214
+in producer with rand = 0
+prod type 0 serial 202
+in producer with rand = 2
+prod type 2 serial 231
+in producer with rand = 2
+prod type 2 serial 232
+in producer with rand = 1
+prod type 1 serial 191
+in producer with rand = 0
+prod type 0 serial 203
+in producer with rand = 1
+prod type 1 serial 192
+in producer with rand = 0
+prod type 0 serial 204
+in producer with rand = 1
+prod type 1 serial 193
+in producer with rand = 2
+prod type 2 serial 233
+in producer with rand = 0
+prod type 0 serial 205
+in producer with rand = 2
+prod type 2 serial 234
+in producer with rand = 3
+prod type 3 serial 215
+in producer with rand = 1
+prod type 1 serial 194
+in producer with rand = 3
+prod type 3 serial 216
+in producer with rand = 0
+prod type 0 serial 206
+in producer with rand = 2
+prod type 2 serial 235
+in producer with rand = 2
+prod type 2 serial 236
+in producer with rand = 0
+prod type 0 serial 207
+in producer with rand = 1
+prod type 1 serial 195
+in producer with rand = 1
+prod type 1 serial 196
+in producer with rand = 2
+prod type 2 serial 237
+in producer with rand = 2
+prod type 2 serial 238
+in producer with rand = 0
+prod type 0 serial 208
+in producer with rand = 0
+prod type 0 serial 209
+in producer with rand = 0
+prod type 0 serial 210
+in producer with rand = 2
+prod type 2 serial 239
+in producer with rand = 0
+prod type 0 serial 211
+in producer with rand = 0
+prod type 0 serial 212
+in producer with rand = 3
+prod type 3 serial 217
+in producer with rand = 0
+prod type 0 serial 213
+in producer with rand = 2
+prod type 2 serial 240
+in producer with rand = 1
+prod type 1 serial 197
+in producer with rand = 1
+prod type 1 serial 198
+in producer with rand = 0
+prod type 0 serial 214
+in producer with rand = 0
+prod type 0 serial 215
+in producer with rand = 3
+prod type 3 serial 218
+in producer with rand = 0
+prod type 0 serial 216
+in producer with rand = 3
+prod type 3 serial 219
+in producer with rand = 0
+prod type 0 serial 217
+in producer with rand = 1
+prod type 1 serial 199
+in producer with rand = 2
+prod type 2 serial 241
+in producer with rand = 0
+prod type 0 serial 218
+in producer with rand = 3
+prod type 3 serial 220
+in producer with rand = 3
+prod type 3 serial 221
+in producer with rand = 0
+prod type 0 serial 219
+in producer with rand = 1
+prod type 1 serial 200
+in producer with rand = 0
+prod type 0 serial 220
+in producer with rand = 2
+prod type 2 serial 242
+in producer with rand = 3
+prod type 3 serial 222
+in producer with rand = 3
+prod type 3 serial 223
+in producer with rand = 0
+prod type 0 serial 221
+in producer with rand = 2
+prod type 2 serial 243
+in producer with rand = 2
+prod type 2 serial 244
+in producer with rand = 1
+prod type 1 serial 201
+in producer with rand = 3
+prod type 3 serial 224
+in producer with rand = 3
+prod type 3 serial 225
+in producer with rand = 0
+prod type 0 serial 222
+in producer with rand = 2
+prod type 2 serial 245
+in producer with rand = 3
+prod type 3 serial 226
+in producer with rand = 1
+prod type 1 serial 202
+in producer with rand = 3
+prod type 3 serial 227
+in producer with rand = 1
+prod type 1 serial 203
+in producer with rand = 2
+prod type 2 serial 246
+in producer with rand = 3
+prod type 3 serial 228
+in producer with rand = 3
+prod type 3 serial 229
+in producer with rand = 3
+prod type 3 serial 230
+in producer with rand = 2
+prod type 2 serial 247
+in producer with rand = 0
+prod type 0 serial 223
+in producer with rand = 1
+prod type 1 serial 204
+in producer with rand = 0
+prod type 0 serial 224
+in producer with rand = 0
+prod type 0 serial 225
+in producer with rand = 1
+prod type 1 serial 205
+in producer with rand = 0
+prod type 0 serial 226
+in producer with rand = 2
+prod type 2 serial 248
+in producer with rand = 1
+prod type 1 serial 206
+in producer with rand = 2
+prod type 2 serial 249
+in producer with rand = 1
+prod type 1 serial 207
+in producer with rand = 3
+prod type 3 serial 231
+in producer with rand = 1
+prod type 1 serial 208
+in producer with rand = 3
+prod type 3 serial 232
+in producer with rand = 3
+prod type 3 serial 233
+in producer with rand = 1
+prod type 1 serial 209
+in producer with rand = 2
+prod type 2 serial 250
+in producer with rand = 3
+prod type 3 serial 234
+in producer with rand = 1
+prod type 1 serial 210
+in producer with rand = 1
+prod type 1 serial 211
+in producer with rand = 1
+prod type 1 serial 212
+in producer with rand = 1
+prod type 1 serial 213
+in producer with rand = 1
+prod type 1 serial 214
+in producer with rand = 2
+prod type 2 serial 251
+in producer with rand = 1
+prod type 1 serial 215
+in producer with rand = 0
+prod type 0 serial 227
+in producer with rand = 3
+prod type 3 serial 235
+in producer with rand = 0
+prod type 0 serial 228
+in producer with rand = 1
+prod type 1 serial 216
+in producer with rand = 1
+prod type 1 serial 217
+in producer with rand = 2
+prod type 2 serial 252
+in producer with rand = 1
+prod type 1 serial 218
+in producer with rand = 1
+prod type 1 serial 219
+in producer with rand = 3
+prod type 3 serial 236
+in producer with rand = 0
+prod type 0 serial 229
+in producer with rand = 3
+prod type 3 serial 237
+in producer with rand = 1
+prod type 1 serial 220
+in producer with rand = 3
+prod type 3 serial 238
+in producer with rand = 0
+prod type 0 serial 230
+in producer with rand = 1
+prod type 1 serial 221
+in producer with rand = 0
+prod type 0 serial 231
+in producer with rand = 1
+prod type 1 serial 222
+in producer with rand = 1
+prod type 1 serial 223
+in producer with rand = 0
+prod type 0 serial 232
+in producer with rand = 3
+prod type 3 serial 239
+in producer with rand = 3
+prod type 3 serial 240
+in producer with rand = 2
+prod type 2 serial 253
+in producer with rand = 2
+prod type 2 serial 254
+in producer with rand = 3
+prod type 3 serial 241
+in producer with rand = 1
+prod type 1 serial 224
+in producer with rand = 0
+prod type 0 serial 233
+in producer with rand = 2
+prod type 2 serial 255
+in producer with rand = 2
+prod type 2 serial 256
+in producer with rand = 3
+prod type 3 serial 242
+in producer with rand = 1
+prod type 1 serial 225
+in producer with rand = 1
+prod type 1 serial 226
+in producer with rand = 2
+prod type 2 serial 257
+in producer with rand = 0
+prod type 0 serial 234
+in producer with rand = 3
+prod type 3 serial 243
+in producer with rand = 1
+prod type 1 serial 227
+in producer with rand = 0
+prod type 0 serial 235
+in producer with rand = 0
+prod type 0 serial 236
+in producer with rand = 3
+prod type 3 serial 244
+in producer with rand = 0
+prod type 0 serial 237
+in producer with rand = 0
+prod type 0 serial 238
+in producer with rand = 0
+prod type 0 serial 239
+in producer with rand = 0
+prod type 0 serial 240
+in producer with rand = 2
+prod type 2 serial 258
+in producer with rand = 2
+prod type 2 serial 259
+in producer with rand = 1
+prod type 1 serial 228
+in producer with rand = 2
+prod type 2 serial 260
+in producer with rand = 1
+prod type 1 serial 229
+in producer with rand = 1
+prod type 1 serial 230
+in producer with rand = 3
+prod type 3 serial 245
+in producer with rand = 3
+prod type 3 serial 246
+in producer with rand = 2
+prod type 2 serial 261
+in producer with rand = 0
+prod type 0 serial 241
+in producer with rand = 1
+prod type 1 serial 231
+in producer with rand = 0
+prod type 0 serial 242
+in producer with rand = 0
+prod type 0 serial 243
+in producer with rand = 1
+prod type 1 serial 232
+in producer with rand = 0
+prod type 0 serial 244
+in producer with rand = 3
+prod type 3 serial 247
+in producer with rand = 3
+prod type 3 serial 248
+in producer with rand = 2
+prod type 2 serial 262
+in producer with rand = 0
+prod type 0 serial 245
+in producer with rand = 2
+prod type 2 serial 263
+in producer with rand = 3
+prod type 3 serial 249
+in producer with rand = 3
+prod type 3 serial 250
+in producer with rand = 2
+prod type 2 serial 264
+in producer with rand = 0
+prod type 0 serial 246
+in producer with rand = 0
+prod type 0 serial 247
+in producer with rand = 3
+prod type 3 serial 251
+in producer with rand = 3
+prod type 3 serial 252
+in producer with rand = 0
+prod type 0 serial 248
+in producer with rand = 0
+prod type 0 serial 249
+in producer with rand = 3
+prod type 3 serial 253
+in producer with rand = 1
+prod type 1 serial 233
+in producer with rand = 2
+prod type 2 serial 265
+in producer with rand = 3
+prod type 3 serial 254
+in producer with rand = 1
+prod type 1 serial 234
+in producer with rand = 1
+prod type 1 serial 235
+in producer with rand = 2
+prod type 2 serial 266
+in producer with rand = 3
+prod type 3 serial 255
+in producer with rand = 3
+prod type 3 serial 256
+in producer with rand = 2
+prod type 2 serial 267
+in producer with rand = 0
+prod type 0 serial 250
+in producer with rand = 3
+prod type 3 serial 257
+in producer with rand = 2
+prod type 2 serial 268
+in producer with rand = 2
+prod type 2 serial 269
+in producer with rand = 1
+prod type 1 serial 236
+in producer with rand = 2
+prod type 2 serial 270
+in producer with rand = 2
+prod type 2 serial 271
+in producer with rand = 3
+prod type 3 serial 258
+in producer with rand = 1
+prod type 1 serial 237
+in producer with rand = 2
+prod type 2 serial 272
+in producer with rand = 0
+prod type 0 serial 251
+in producer with rand = 0
+prod type 0 serial 252
+in producer with rand = 2
+prod type 2 serial 273
+in producer with rand = 1
+prod type 1 serial 238
+in producer with rand = 3
+prod type 3 serial 259
+in producer with rand = 1
+prod type 1 serial 239
+in producer with rand = 2
+prod type 2 serial 274
+in producer with rand = 1
+prod type 1 serial 240
+in producer with rand = 2
+prod type 2 serial 275
+in producer with rand = 1
+prod type 1 serial 241
+in producer with rand = 2
+prod type 2 serial 276
+in producer with rand = 0
+prod type 0 serial 253
+in producer with rand = 3
+prod type 3 serial 260
+in producer with rand = 0
+prod type 0 serial 254
+in producer with rand = 1
+prod type 1 serial 242
+in producer with rand = 0
+prod type 0 serial 255
+in producer with rand = 0
+prod type 0 serial 256
+in producer with rand = 2
+prod type 2 serial 277
+in producer with rand = 0
+prod type 0 serial 257
+in producer with rand = 2
+prod type 2 serial 278
+in producer with rand = 2
+prod type 2 serial 279
+in producer with rand = 3
+prod type 3 serial 261
+in producer with rand = 3
+prod type 3 serial 262
+in producer with rand = 0
+prod type 0 serial 258
+in producer with rand = 2
+prod type 2 serial 280
+in producer with rand = 0
+prod type 0 serial 259
+in producer with rand = 2
+prod type 2 serial 281
+in producer with rand = 1
+prod type 1 serial 243
+in producer with rand = 1
+prod type 1 serial 244
+in producer with rand = 3
+prod type 3 serial 263
+in producer with rand = 2
+prod type 2 serial 282
+in producer with rand = 1
+prod type 1 serial 245
+in producer with rand = 2
+prod type 2 serial 283
+in producer with rand = 3
+prod type 3 serial 264
+in producer with rand = 3
+prod type 3 serial 265
+in producer with rand = 3
+prod type 3 serial 266
+in producer with rand = 3
+prod type 3 serial 267
+in producer with rand = 2
+prod type 2 serial 284
+in producer with rand = 0
+prod type 0 serial 260
+in producer with rand = 3
+prod type 3 serial 268
+in producer with rand = 0
+prod type 0 serial 261
+in producer with rand = 1
+prod type 1 serial 246
+in producer with rand = 1
+prod type 1 serial 247
+in producer with rand = 0
+prod type 0 serial 262
+in producer with rand = 2
+prod type 2 serial 285
+in producer with rand = 2
+prod type 2 serial 286
+in producer with rand = 2
+prod type 2 serial 287
+in producer with rand = 3
+prod type 3 serial 269
+in producer with rand = 0
+prod type 0 serial 263
+in producer with rand = 1
+prod type 1 serial 248
+in producer with rand = 0
+prod type 0 serial 264
+in producer with rand = 2
+prod type 2 serial 288
+in producer with rand = 2
+prod type 2 serial 289
+in producer with rand = 1
+prod type 1 serial 249
+in producer with rand = 1
+prod type 1 serial 250
+in producer with rand = 1
+prod type 1 serial 251
+in producer with rand = 0
+prod type 0 serial 265
+in producer with rand = 1
+prod type 1 serial 252
+in producer with rand = 1
+prod type 1 serial 253
+in producer with rand = 3
+prod type 3 serial 270
+in producer with rand = 3
+prod type 3 serial 271
+in producer with rand = 3
+prod type 3 serial 272
+in producer with rand = 0
+prod type 0 serial 266
+in producer with rand = 1
+prod type 1 serial 254
+in producer with rand = 1
+prod type 1 serial 255
+in producer with rand = 1
+prod type 1 serial 256
+in producer with rand = 3
+prod type 3 serial 273
+in producer with rand = 3
+prod type 3 serial 274
+in producer with rand = 1
+prod type 1 serial 257
+in producer with rand = 1
+prod type 1 serial 258
+in producer with rand = 3
+prod type 3 serial 275
+in producer with rand = 0
+prod type 0 serial 267
+in producer with rand = 3
+prod type 3 serial 276
+in producer with rand = 0
+prod type 0 serial 268
+in producer with rand = 1
+prod type 1 serial 259
+in producer with rand = 1
+prod type 1 serial 260
+in producer with rand = 2
+prod type 2 serial 290
+in producer with rand = 2
+prod type 2 serial 291
+in producer with rand = 0
+prod type 0 serial 269
+in producer with rand = 1
+prod type 1 serial 261
+in producer with rand = 1
+prod type 1 serial 262
+in producer with rand = 0
+prod type 0 serial 270
+in producer with rand = 2
+prod type 2 serial 292
+in producer with rand = 0
+prod type 0 serial 271
+in producer with rand = 0
+prod type 0 serial 272
+in producer with rand = 2
+prod type 2 serial 293
+in producer with rand = 1
+prod type 1 serial 263
+in producer with rand = 2
+prod type 2 serial 294
+in producer with rand = 0
+prod type 0 serial 273
+in producer with rand = 0
+prod type 0 serial 274
+in producer with rand = 3
+prod type 3 serial 277
+in producer with rand = 0
+prod type 0 serial 275
+in producer with rand = 2
+prod type 2 serial 295
+in producer with rand = 0
+prod type 0 serial 276
+in producer with rand = 0
+prod type 0 serial 277
+in producer with rand = 2
+prod type 2 serial 296
+in producer with rand = 0
+prod type 0 serial 278
+in producer with rand = 3
+prod type 3 serial 278
+in producer with rand = 0
+prod type 0 serial 279
+in producer with rand = 0
+prod type 0 serial 280
+in producer with rand = 3
+prod type 3 serial 279
+in producer with rand = 2
+prod type 2 serial 297
+in producer with rand = 2
+In signal handler with signal #15

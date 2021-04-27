@@ -1,0 +1,117 @@
+Script started on 2021-04-27 15:37:06-0400
+]0;osboxes@ubuntu: ~/comp3080/Assignment6[01;32mosboxes@ubuntu[00m:[01;34m~/comp3080/Assignment6[00m$ ./a6
+FILENAME:			..
+FILE_TYPE:			directory
+PERMISSIONS:			rwx r-x r-x
+OWNER_NAME:			osboxes
+GROUP_NAME:			osboxes
+DATE_OF_LAST_MODIFICATION:	Apr 20 23:52 2021
+LINK_COUNT:			8
+SIZE_IN_BYTES:			4096
+INODE_NUMBER:			5508957
+
+FILENAME:			Makefile
+FILE_TYPE:			ordinary
+PERMISSIONS:			rw- rw- r--
+OWNER_NAME:			osboxes
+GROUP_NAME:			osboxes
+DATE_OF_LAST_MODIFICATION:	Apr 26 15:38 2021
+LINK_COUNT:			1
+SIZE_IN_BYTES:			199
+INODE_NUMBER:			5638869
+
+FILENAME:			.
+FILE_TYPE:			directory
+PERMISSIONS:			rwx rwx r-x
+OWNER_NAME:			osboxes
+GROUP_NAME:			osboxes
+DATE_OF_LAST_MODIFICATION:	Apr 27 15:37 2021
+LINK_COUNT:			2
+SIZE_IN_BYTES:			4096
+INODE_NUMBER:			5638526
+
+FILENAME:			a6
+FILE_TYPE:			ordinary
+PERMISSIONS:			rwx rwx r-x
+OWNER_NAME:			osboxes
+GROUP_NAME:			osboxes
+DATE_OF_LAST_MODIFICATION:	Apr 27 14:40 2021
+LINK_COUNT:			1
+SIZE_IN_BYTES:			17824
+INODE_NUMBER:			5638872
+
+FILENAME:			readme.txt
+FILE_TYPE:			ordinary
+PERMISSIONS:			rw- rw- r--
+OWNER_NAME:			osboxes
+GROUP_NAME:			osboxes
+DATE_OF_LAST_MODIFICATION:	Apr 27 13:44 2021
+LINK_COUNT:			1
+SIZE_IN_BYTES:			0
+INODE_NUMBER:			5638873
+
+FILENAME:			output.txt
+FILE_TYPE:			ordinary
+PERMISSIONS:			rw- rw- r--
+OWNER_NAME:			osboxes
+GROUP_NAME:			osboxes
+DATE_OF_LAST_MODIFICATION:	Apr 27 15:37 2021
+LINK_COUNT:			1
+SIZE_IN_BYTES:			0
+INODE_NUMBER:			5638874
+
+FILENAME:			main.o
+FILE_TYPE:			ordinary
+PERMISSIONS:			rw- rw- r--
+OWNER_NAME:			osboxes
+GROUP_NAME:			osboxes
+DATE_OF_LAST_MODIFICATION:	Apr 27 14:40 2021
+LINK_COUNT:			1
+SIZE_IN_BYTES:			14992
+INODE_NUMBER:			5638871
+
+FILENAME:			main.c
+FILE_TYPE:			ordinary
+PERMISSIONS:			rw- rw- r--
+OWNER_NAME:			osboxes
+GROUP_NAME:			osboxes
+DATE_OF_LAST_MODIFICATION:	Apr 27 14:40 2021
+LINK_COUNT:			1
+SIZE_IN_BYTES:			3814
+INODE_NUMBER:			5638744
+
+]0;osboxes@ubuntu: ~/comp3080/Assignment6[01;32mosboxes@ubuntu[00m:[01;34m~/comp3080/Assignment6[00m$ ./a6 . m[Ka6 main.c
+FILENAME:			.
+FILE_TYPE:			directory
+PERMISSIONS:			rwx rwx r-x
+OWNER_NAME:			osboxes
+GROUP_NAME:			osboxes
+DATE_OF_LAST_MODIFICATION:	Apr 27 15:37 2021
+LINK_COUNT:			2
+SIZE_IN_BYTES:			4096
+INODE_NUMBER:			5638526
+
+FILENAME:			a6
+FILE_TYPE:			ordinary
+PERMISSIONS:			rwx rwx r-x
+OWNER_NAME:			osboxes
+GROUP_NAME:			osboxes
+DATE_OF_LAST_MODIFICATION:	Apr 27 14:40 2021
+LINK_COUNT:			1
+SIZE_IN_BYTES:			17824
+INODE_NUMBER:			5638872
+
+FILENAME:			main.c
+FILE_TYPE:			ordinary
+PERMISSIONS:			rw- rw- r--
+OWNER_NAME:			osboxes
+GROUP_NAME:			osboxes
+DATE_OF_LAST_MODIFICATION:	Apr 27 14:40 2021
+LINK_COUNT:			1
+SIZE_IN_BYTES:			3814
+INODE_NUMBER:			5638744
+
+]0;osboxes@ubuntu: ~/comp3080/Assignment6[01;32mosboxes@ubuntu[00m:[01;34m~/comp3080/Assignment6[00m$ exit
+exit
+
+Script done on 2021-04-27 15:37:24-0400
